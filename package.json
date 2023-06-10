@@ -1,0 +1,18 @@
+{
+  "name": "contestjoe",
+  "version": "1.0.0",
+  "description": "A discord bot that handles monthly contests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davor Babic",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
